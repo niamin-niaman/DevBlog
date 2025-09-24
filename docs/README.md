@@ -4,4 +4,6 @@
 
 update @today
 
-go to [fol](docs/Fol/README.md) 
+go to [fol](Fol/README.md) 
+
+[Link](blog.niamin.dev)
