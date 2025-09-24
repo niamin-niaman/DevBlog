@@ -4,4 +4,4 @@
 
 update @today
 
-go to [fol](docs/Fol%201/README.md) 
+go to [fol](docs/Fol/README.md) 
